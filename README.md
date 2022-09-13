@@ -1,8 +1,8 @@
 Black Magic Clone
 ========================================
 
-<img src="Resources\UNIclicker_front.jpg"  width=50% height=50%>
-<img src="Resources\UNIclicker_back.png"  width=50% height=50%>
+<img src="Resources\blackmagic_front.png"  width=50% height=50%>
+<img src="Resources\blackmagic_back.png"  width=50% height=50%>
 
 
 Black Magic is an easy-to-use board used for debugging embedded microcontrollers. It supports several targets from manufacturers such as STMicroelectronics, Atmel, Nordic Semiconductor, NXP, Texas Instruments, Freescale, Silicon Labs, Xilinx or Raspberry Pi.
